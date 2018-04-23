@@ -1,0 +1,6 @@
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleProxy\ConsoleProxy\bin\Debug\ConsoleProxy.exe.config
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleProxy\ConsoleProxy\bin\Debug\ConsoleProxy.exe
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleProxy\ConsoleProxy\bin\Debug\ConsoleProxy.pdb
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleProxy\ConsoleProxy\obj\Debug\ConsoleProxy.csprojResolveAssemblyReference.cache
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleProxy\ConsoleProxy\obj\Debug\ConsoleProxy.exe
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleProxy\ConsoleProxy\obj\Debug\ConsoleProxy.pdb
